@@ -22,7 +22,7 @@
 
 <br><br>
 
-<img src="assets/computer.gif" width="90" alt="Retro computer">
+<img src="assets/computerbaboon.gif" width="90" alt="Retro computer">
 
 <br>
 
