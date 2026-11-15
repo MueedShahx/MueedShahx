@@ -178,17 +178,23 @@
 
 <!-- GITHUB STATISTICS -->
 
+
+<!-- GITHUB ACTIVITY -->
+
 <h2>📊 MY GITHUB ACTIVITY</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=MueedShahx&show_icons=true&theme=tokyonight&hide_border=true"
-     width="90%" alt="GitHub statistics">
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=MueedShahx&show_icons=true&theme=tokyonight&hide_border=true"
+     width="90%" alt="GitHub Statistics">
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MueedShahx&layout=compact&theme=tokyonight&hide_border=true"
-     alt="Most used languages">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MueedShahx&layout=compact&theme=tokyonight&hide_border=true"
+     alt="Most Used Languages">
 
-<br><br>
+</div>
+
 
 <!-- VISITOR COUNTER -->
 
